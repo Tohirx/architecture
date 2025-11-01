@@ -9,7 +9,7 @@ This proposal introduces a new Navigator API to draw decorations on top of publi
 
 ## Motivation
 
-A variety of features need to draw user interface elements (decorations) over a publication's content, such as:
+A variety of features needed to draw user interface elements (decorations) over a publication's content, such as:
 
 * highlighting a text selection
 * displaying search results
